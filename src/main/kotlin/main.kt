@@ -20,7 +20,7 @@ import kotlin.text.*
 // Complete the compareTriplets function below.
 fun compareTriplets(a: Array<Int>, b: Array<Int>): Array<Int> {
 
-
+    TODO()
 }
 
 fun main(args: Array<String>) {
